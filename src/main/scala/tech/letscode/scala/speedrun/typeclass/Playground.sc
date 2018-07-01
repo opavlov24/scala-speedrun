@@ -1,4 +1,4 @@
-import tech.letscode.scala.speedrun.typeclass.Ratio; {
+import tech.letscode.scala.speedrun.Ratio; {
   import tech.letscode.scala.speedrun.typeclass.Ord._
 
   Ratio(2, 4) === Ratio(3, 6)

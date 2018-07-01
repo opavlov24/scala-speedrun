@@ -1,4 +1,6 @@
-package tech.letscode.scala.speedrun.typeclass
+package tech.letscode.scala.speedrun
+
+import tech.letscode.scala.speedrun.typeclass.Ord
 
 final case class Ratio(num: Integer, den: Integer)
 
